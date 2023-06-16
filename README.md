@@ -1,0 +1,2 @@
+# themagiciankingsite
+My neocities website.
