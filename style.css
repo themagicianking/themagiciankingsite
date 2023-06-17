@@ -1,0 +1,22 @@
+body
+{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+html {
+  height: 100%;
+}
+
+.main
+{
+  color: whitesmoke;
+  background-color: gray;
+  border: solid whitesmoke 2px;
+  padding: 50px;
+  text-align: center;
+}
